@@ -22,6 +22,7 @@ while True:
     option=input("Choose option: ")
 
     if option == "5":
+        print("Bye Bye!!")
         break
 
     if option == "1":
